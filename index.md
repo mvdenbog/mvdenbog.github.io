@@ -21,6 +21,7 @@ I’m passionate about applying reproducible, scalable tools to real-world probl
 - Nextflow / Snakemake workflows
 - Continuous upskilling in modern tools (e.g., transformer models, spatial omics)
 
-[📄 Download my CV](./cv.md)  
-[🔗 My GitHub](https://github.com/YOUR_USERNAME)  
-[📧 Contact Me](mailto:your.email@example.com)
+[📄 my CV on GitHub](./cv.md)  
+[📄 Download my CV](./MathiasVandenbogaert_CV_2025.pdf)
+[🔗 My GitHub](https://github.com/mvdenbog)  
+[📧 Contact Me](mailto: mathias.vandenbogaert@@gmail.com)

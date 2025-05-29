@@ -1,0 +1,16 @@
+title: "Mathias Vandenbogaert"
+description: >-
+  Computational biologist | Bioinformatics | HPC & Metagenomics | R, Python, AI-curious
+baseurl: "" # Keep this blank if using yourusername.github.io as your site URL
+url: "https://mvdenbog.github.io" # Replace with your GitHub Pages URL
+
+theme: jekyll-theme-minimal
+
+# Optional settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Social links (optional)
+github_username: mvdenbog
+email: mathias.vandenbogaert@gmail.com

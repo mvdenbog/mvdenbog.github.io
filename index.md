@@ -1,5 +1,4 @@
-![Mathias Vandenbogaert](profile.jpg){: style="max-width: 200px; border-radius: 50%;" }
-
+![Mathias Vandenbogaert](MathiasVandenbogaert.png){: style="max-width: 200px; border-radius: 50%;" }
 ---
 title: "Mathias Vandenbogaert"
 layout: default

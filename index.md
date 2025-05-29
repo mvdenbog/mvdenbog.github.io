@@ -28,6 +28,7 @@ I’m passionate about applying reproducible, scalable tools to real-world probl
 [🔗 My GitHub](https://github.com/mvdenbog)  
 [📧 Contact Me](mailto:mathias.vandenbogaert@gmail.com)  
 📇 [ORCID: 0000-0002-3073-9688](https://orcid.org/0000-0002-3073-9688)  
+
 📇 [My ORCID profile](https://orcid.org/0000-0002-3073-9688) includes all my publications.
 
 [📄 my publications on GitHub](./publications.md)

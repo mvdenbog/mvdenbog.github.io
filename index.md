@@ -22,6 +22,6 @@ I’m passionate about applying reproducible, scalable tools to real-world probl
 - Continuous upskilling in modern tools (e.g., transformer models, spatial omics)
 
 [📄 my CV on GitHub](./cv.md)  
-[📄 Download my CV](./MathiasVandenbogaert_CV_2025.pdf)
+[📄 Download my CV](./MathiasVandenbogaert_CV_2025.pdf)  
 [🔗 My GitHub](https://github.com/mvdenbog)  
 [📧 Contact Me](mailto: mathias.vandenbogaert@@gmail.com)

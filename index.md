@@ -1,3 +1,5 @@
+![Mathias Vandenbogaert](profile.jpg){: style="max-width: 200px; border-radius: 50%;" }
+
 ---
 title: "Mathias Vandenbogaert"
 layout: default
@@ -25,3 +27,7 @@ I’m passionate about applying reproducible, scalable tools to real-world probl
 [📄 Download my CV](./MathiasVandenbogaert_CV_2025.pdf)  
 [🔗 My GitHub](https://github.com/mvdenbog)  
 [📧 Contact Me](mailto:mathias.vandenbogaert@gmail.com)  
+📇 [ORCID: 0000-0002-XXXX-XXXX](https://orcid.org/0000-0002-XXXX-XXXX)
+📇 [My ORCID profile](https://orcid.org/0000-0002-XXXX-XXXX) includes all my publications.
+
+[📄 my publications on GitHub](./publications.md)

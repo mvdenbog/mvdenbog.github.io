@@ -86,6 +86,8 @@ Bioinformatics: Identification of Genome-Wide Functional Regulatory Networks.
 
 ## 🎓 Education
 
-**PhD in computer science** — I.N.R.I.A. Rocquencourt & LaBRI univ Bordeaux I
-**MSc in Bioinformatics** – Institut Pasteur
+**PhD in computer science** — I.N.R.I.A. Rocquencourt & LaBRI univ Bordeaux I  
+
+**MSc in Bioinformatics** – Institut Pasteur  
+
 **BSc in Biology** – University of Ghent, BE

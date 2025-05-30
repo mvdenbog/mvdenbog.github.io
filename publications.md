@@ -1,10 +1,5 @@
 ## 📚 Selected Publications
 
-- **van den Bogaart, M.**, et al. (2023). _Metagenomic surveillance of hospital water systems_. *Environmental Microbiology*, 25(4), 1200–1212. [DOI](https://doi.org/10.1111/emi.12345)
-- **van den Bogaart, M.**, et al. (2022). _HPC workflows for pathogen screening_. *Bioinformatics*, 38(9), 1503–1510. [DOI](https://doi.org/10.1093/bioinformatics/btz123)
-
-## 📚 MOST SIGNIFICANT PUBLICATIONS IN THE LAST 5 YEARS  
-
 - Hamy, Anne-Sophie, Judith Abécassis, Keltouma Driouch, Lauren Darrigues, **Mathias Vandenbogaert**, Cecile Laurent, Francois Zaccarini, et al. “Evolution of Synchronous Female Bilateral Breast Cancers and Response to Treatment.” Nature Medicine 29, no. 3 (2023): 646–655.
 https://www.nature.com/articles/s41591-023-02216-8.
 - Balière, Charlotte, Elodie Calvez, Jean-Michel Thiberge, Somphavanh Somlor, **Mathias Vandenbogaert**, Marc Grandadam, and Valérie Caro. “A Six Years (2010–2016) Longitudinal Survey of the Four Serotypes of Dengue Viruses in Lao PDR.” Microorganisms 11, no. 2 (January 18, 2023): 243. https://www.mdpi.com/2076-2607/11/2/243.

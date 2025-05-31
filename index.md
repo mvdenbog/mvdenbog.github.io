@@ -3,7 +3,7 @@ title: "Mathias Vandenbogaert"
 layout: default
 ---
 
-![Mathias Vandenbogaert](MathiasVandenbogaert.png){:style="max-width: 200px; border-radius: 50%;" }
+![Mathias Vandenbogaert](MathiasVandenbogaert.png){:style="max-width: 100px; border-radius: 50%;" }
 
 # 👋 Welcome
 
